@@ -1,0 +1,16 @@
+# SQLite database
+expenses.db
+
+# Generated PDFs
+*.pdf
+
+# Imported data
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual envs
+venv/
+.env/
