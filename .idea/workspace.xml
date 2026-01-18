@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1af6eef-5aeb-4a1b-b57a-fdd299cd5dc0" name="Changes" comment="Finished Version">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/expenses.csv" beforeDir="false" afterPath="$PROJECT_DIR$/expenses.csv" afterDir="false" />
-    </list>
+    <list default="true" id="d1af6eef-5aeb-4a1b-b57a-fdd299cd5dc0" name="Changes" comment="Finished Version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +85,7 @@
       <workItem from="1734971306858" duration="2185000" />
       <workItem from="1757699652543" duration="8000" />
       <workItem from="1757699673252" duration="1205000" />
+      <workItem from="1768744930487" duration="1777000" />
     </task>
     <task id="LOCAL-00001" summary="Finished Version">
       <option name="closed" value="true" />
